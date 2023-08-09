@@ -1,0 +1,4 @@
+<?php
+$adminEmail =  "email@dominio.com.br";
+$SendMailFailederrorMessage = "Algo deu errado...";
+$SendMailEmptyerrorMessage = "Formulário incompleto.";

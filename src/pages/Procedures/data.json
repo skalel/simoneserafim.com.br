@@ -1,0 +1,87 @@
+{
+  "procedures": [
+    {
+      "id": 0,
+      "name": "Método Simone Serafim",
+      "desc": "Quando falamos em realismo é sobre este resultado!\nTécnica desenvolvida para lhe proporcionar um efeito único e completo!\nA naturalidade e volume que suas sobrancelhas precisam para valorizar ainda mais seu rosto, e é claro… sem chamar atenção!\nIndicado para clientes com o mais alto nível de exigência, a melhor escolha pra você que deseja um resultado além da expectativa!",
+      "details": "(Durabilidade média de 1 ano)",
+      "images": [
+        "/media/ss1.webp",
+        "/media/ss2.webp",
+        "/media/ss3.webp"
+      ],
+      "sensible_content": false
+    },
+    {
+      "id": 1,
+      "name": "Micropigmentação fio a fio",
+      "desc": "Fios que simulam a trama dos seus pelos naturais, dermopigmentados na pele através de um demógrafo elétrico, proporcionando um resultado uniforme cobrindo falhas existentes de forma discreta, e também com a possibilidade de deixar as sobrancelhas mais definidas conforme a preferência da cliente.\nIndicado para todos os tipos e tons de pele inclusive pele madura!",
+      "details": "(Durabilidade média de 1 ano)",
+      "images": [
+        "/media/micpigm1.webp",
+        "/media/micpigm2.webp",
+        "/media/micpigm3.webp"
+      ],
+      "sensible_content": false
+    },
+    {
+      "id": 2,
+      "name": "Microblanding Realista",
+      "desc": "Trata-se de um procedimento fino e muito delicado, resultado incrível e sofisticado para clientes que amam melhorar sua beleza sem sequer ser notado o que há de diferente.\nIndicado para peles mistas secas ou normais.",
+      "details": "(Durabilidade média de 1 ano)",
+      "images": [
+        "/media/micbland1.webp",
+        "/media/micbland2.webp"
+      ],
+      "sensible_content": false
+    },
+    {
+      "id": 3,
+      "name": "Remoção a laser de Micropigmentação em sobrancelhas",
+      "desc": "A solução perfeita e totalmente segura para a remoção de procedimentos mal sucedidos ou indesejados, com intervalo médio de 30 dias entre sessões, após isso reconstruímos suas sobrancelhas com nossa técnica realista e design ideal para o seu perfil, tipo e tom de pele.",
+      "details": "(O número de sessões e avaliado individualmente com cuidado e sem custo)",
+      "images": [
+        "/media/remmicrop1.webp",
+        "/media/remmicrop2.webp",
+        "/media/remmicrop3.webp"
+      ],
+      "sensible_content": false
+    },
+    {
+      "id": 4,
+      "name": "Revitalização Labial",
+      "desc": "Técnica que consiste em deixar os seus lábios mais corados, de forma muito sutil e natural.\nIsso porque, ao revitalizar você tem efeito de mais cor aos seus lábios de maneira natural, proporcionando um aspecto mais vivido sem necessidade do uso de batom!\nEssa técnica é indicada para pessoas com lábios finos, opacos, sem contorno ou que desejam lábios mais lindos e atraentes a todo momento!",
+      "details": "(O procedimento é realizado de maneira segura e com anestésico tópico, tem a durabilidade média de 1 a 3 anos, dependendo de cada organismo.)",
+      "images": [
+        "/media/revlab1.webp",
+        "/media/revlab2.webp",
+        "/media/revlab3.webp"
+      ],
+      "sensible_content": false
+    },
+    {
+      "id": 5,
+      "name": "Micropigmentação Reconstrutora Paramédica",
+      "desc": "Através desta técnica, corrigimos assimetrias geradas por cirurgias utilizando cores e efeitos 3D, dessa forma, reproduzimos fielmente a textura e projeção de volume da auréola, lhe proporcionando um resultado incrível sem necessidade de cortes, cirurgias ou até mesmo tempo de recuperação.\nIndicado para clientes com irregularidades na estrutura aureolar causadas por mastopexia estética ou oncológica.",
+      "details": "(Durabilidade média de 2 anos)",
+      "images": [
+        "/media/recparam1.webp",
+        "/media/recparam2.webp",
+        "/media/recparam3.webp"
+      ],
+      "sensible_content": true
+    },
+    {
+      "id": 6,
+      "name": "Micropigmentação Capilar",
+      "desc": "Camuflagem do couro cabeludo simulando folículos de cabelo em fase de nascimento, com técnica realista em pontilhismo aperfeiçoada diretamente de Israel. Indicado para homens ou mulheres com calvície, cicatrizes ou falhas isoladas.",
+      "details": "(Durabilidade média de 2 a 3 anos) ",
+      "images": [
+        "/media/cap1.webp",
+        "/media/cap2.webp",
+        "/media/cap3.webp"
+      ],
+      "sensible_content": false
+    }
+  ]
+}

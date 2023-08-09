@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": 0,
+      "name": "SKIN BABY - Regeneração",
+      "desc": "O protocolo SKIN BABY, tem por principal intuito a nutrição celular, com extratos de Bioplacenta, utilizada para tratamento de nutrição e regeneração celular, capaz de rejuvenescer e clarear a pele num todo. Indicado para peles envelhecidas, flácidas, manchas de sol ou melasma. Esses ativos riquíssimos em poder de purificação celular; rico em aminoácidos e fator de crescimento, são capazes de recuperar as células definhadas e enfraquecidas da pele e ainda ativar as células tronco do seu corpo!",
+      "details": "",
+      "images": [
+        "/media/skinbaby1.webp",
+        "/media/skinbaby2.webp",
+        "/media/skinbaby3.webp",
+        "/media/skinbaby4.webp"
+      ],
+      "sensible_content": false
+    },
+    {
+      "id": 1,
+      "name": "SKIN BABY - Pele Acneica",
+      "desc": "Tratamento de nutrição e equilíbrio da oleosidade da pele, com ativos riquíssimos em purificação celular, capaz de desinflamar acnes, clarear a pele e até preencher cicatrizes causadas por inflamações acneicas.",
+      "details": "",
+      "images": [
+        "/media/skinbabyapn1.webp",
+        "/media/skinbabyapn2.webp"
+      ],
+      "sensible_content": false
+    }
+  ]
+}
